@@ -4,4 +4,6 @@ int main(){
 	printf("value %d",a);
       printf("hello 1 line added ");
 
+      printf("hell2 lines ");
+
 }
