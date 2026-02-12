@@ -8,4 +8,7 @@ int main(){
 
       printf("after the push ");
 
+	printf("i have edited theis in github");
+	
+
 }
