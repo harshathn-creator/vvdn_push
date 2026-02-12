@@ -6,4 +6,6 @@ int main(){
 
       printf("hell2 lines ");
 
+      printf("after the push ");
+
 }
